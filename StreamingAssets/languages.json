@@ -10,6 +10,8 @@
         "friday": "Sexta",
         "saturday": "Sábado",
         "sunday": "Domingo",
-        "intro_1":  "Parece que alguem mandou uma mensagem..."
+        "intro_1": "Parece que alguem mandou uma mensagem...",
+        "intro_2": "Ainda não acredito que isso aconteceu.",
+        "next":  "Avançar"
     }
 }
